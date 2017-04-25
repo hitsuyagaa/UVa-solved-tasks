@@ -23,7 +23,6 @@ public class Main {
 * 7 --> 10 ( 1 leftover ) 
 * 8 --> 12 ( 1 borrowed - 1 leftover )
 * 9 --> 13 (
-* 
-
+* n + n / 2
 * 
 */
