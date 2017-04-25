@@ -7,7 +7,6 @@ public class Main {
 		
 		while(in.hasNextInt()){
 			int n = in.nextInt();
-			if(n == 1) System.out.println(n);
 			else System.out.println(n + n/2);
 		}
 		in.close();
@@ -25,6 +24,6 @@ public class Main {
 * 8 --> 12 ( 1 borrowed - 1 leftover )
 * 9 --> 13 (
 * 
-* n % 2 == 0  n + n/2 
+
 * 
 */
